@@ -1,6 +1,6 @@
-Zarya and Bandit
+Zarya ja Bandit
 
-Zarya and Bandit, the West Siberian Laikas, born September 15th, 2022, prancing and plowing through the snow.
+Zarya ja Bandit, the West Siberian Laikas, born September 15th, 2022, prancing and plowing through the snow.
 
 #Länsisiperianlaika #WSL
 
