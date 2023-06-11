@@ -12,7 +12,7 @@ SUBTITLES
 » Send subtitle files via email: (pending)
 
 SOCIAL
-Инстагра́м: https://www.instagarm.com/zaryathelaika/
-ТикТок: https://www.tiktok.com/@zaryathelaika
-Тамблер: https://www.zaryathelaika
-Твиттер: https://www.twitter.com/ZaryaTheLaika
+• Инстагра́м: https://www.instagarm.com/zaryathelaika/
+• ТикТок: https://www.tiktok.com/@zaryathelaika
+• Тамблер: https://www.zaryathelaika
+• Твиттер: https://www.twitter.com/ZaryaTheLaika
