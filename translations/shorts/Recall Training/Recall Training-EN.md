@@ -9,7 +9,7 @@ Make a one-time donation via PayPal: https://paypal.me/bglamours
 
 SUBTITLES
 » Help with subtitle translations via Amara: (pending)
-» Help with translations via git: (pending)
+» Help with translations via git: https://github.com/ZaryaTheLaika/channel-content/tree/2f12dd4da2fc7b30b1a0a36a127b159d441a1d51/translations/shorts/Recall%20Training
 » Send subtitle files via email: (pending)
 
 SOCIAL
