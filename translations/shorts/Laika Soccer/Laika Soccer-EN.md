@@ -9,7 +9,7 @@ Make a one-time donation via PayPal: https://paypal.me/bglamours
 
 SUBTITLES
 » Help with subtitle translations via Amara: (pending)
-» Help with translations via git: [(pending)](https://github.com/ZaryaTheLaika/channel-content/tree/03076d016c4a9ba86ea3952f3b50f0e2ae435bca/translations/shorts/Laika%20Soccer)
+» Help with translations via git: https://github.com/ZaryaTheLaika/channel-content/tree/03076d016c4a9ba86ea3952f3b50f0e2ae435bca/translations/shorts/Laika%20Soccer
 » Send subtitle files via email: (pending)
 
 SOCIAL
