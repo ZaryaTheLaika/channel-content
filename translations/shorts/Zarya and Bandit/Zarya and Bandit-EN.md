@@ -9,7 +9,7 @@ Make a one-time donation via PayPal: https://paypal.me/bglamours
 
 SUBTITLES
 » Help with subtitle translations via Amara: (pending) 
-» Help with translations via git: https://github.com/ZaryaTheLaika/channel-content/tree/main/translations/shorts/Zarya%20and%20Bandit
+» Help with translations via git: [https://github.com/ZaryaTheLaika/channel-content/tree/302ddcf807b11b0bc6443aad13aada5c34167381/translations/shorts/Zarya%20and%20Bandit)](https://github.com/ZaryaTheLaika/channel-content/tree/302ddcf807b11b0bc6443aad13aada5c34167381/translations/shorts/Zarya%20and%20Bandit)
 » Send subtitle files via email: (pending) 
 
 SOCIAL
