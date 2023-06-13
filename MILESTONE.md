@@ -16,7 +16,9 @@
 - [ ] [10 000 000 views/90 days](https://support.google.com/youtube/answer/72851?hl) (shorts)<!--- egibility for monetization of short-form content -->
 - [ ] 2 500 subscribers <!--- @biancaglamour on TikTok has 2498 followers as of 2023-06-13 -->
 - [ ] 400 000 likes <!--- @biancaglamour on TikTok has 356.1K likes as of 2023-06-13 -->
-- [ ] 2 million views on a video <!--- @biancaglamour's most viewed video on TikTok is: https://www.tiktok.com/@biancaglamour/video/7101473081905908997 with 1.8M views as of 2023-06-13) -->
+- [ ] 50 000 views on a short-form video <!--- most viewed short with #WestSiberianLaika: https://www.youtube.com/shorts/gsELfCQl17Y -->
+- [ ] 1 400 000 million views on a long-form video <!--- most viewed laika-related video with English metadata: https://www.youtube.com/watch?v=UarfEA0v528&pp=ygUTd2VzdCBzaWJlcmlhbiBsYWlrYQ%3D%3D -->
+- [ ] 2 000 000 views on a short-form video <!--- @biancaglamour's most viewed video on TikTok is: https://www.tiktok.com/@biancaglamour/video/7101473081905908997 with 1.8M views as of 2023-06-13) -->
 - [ ] 7 000 subscribers <!--- Twitter account with most followers -->
 - [ ] 30 shorts in 30 days <!--- https://www.youtube.com/watch?v=XCg64227nOw -->
 ## Support
