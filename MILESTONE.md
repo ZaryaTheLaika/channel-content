@@ -1,18 +1,19 @@
 # Milestones
 - [ ] 20 subscribers
-- [ ] 15 videos
+- [ ] 15 long-form videos
 - [ ] 10 000 views
-- [ ] 25 videos
+- [ ] 25 long-form videos
 - [ ] 50 subscribers
 - [ ] 15 000 views
 - [ ] 100 subscribers
 - [ ] 1 000 subscribers
-- [ ] 4 000 hours watch time/365 days
+- [ ] 4 000 hours watch time/365 days (long-form video)
+- [ ] 10 000 000 views/90 days (shorts)
 - [ ] 2 500 subscribers
 - [ ] 400 000 likes
 - [ ] 2 million views on a video
 - [ ] 7 000 subscribers
-- [ ] 30 uploads in 30 days
+- [ ] 30 shorts in 30 days
 ## Support
 If you enjoy the videos and wish to see continous uploads, please consider contributing to the [puppy fund](https://paypal.me/bglamours) via PayPal.
 ## License and Copyright
