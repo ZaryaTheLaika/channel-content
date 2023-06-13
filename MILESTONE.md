@@ -1,9 +1,10 @@
 # Milestones
-- [ ] 20 subscribers
-- [ ] 15 long-form videos
-- [ ] 10 000 views
+- [ ] 20 subscribers <!--- most subscribed alternative YouTube channel -->
+- [ ] 15 long-form videos <!--- most videos uploaded to an alternative YouTube channel -->
+- [ ] 10 000 views <!--- most viewed alternative YouTube channel -->
 - [ ] 25 long-form videos <!--- total videos uploaded to YouTube on other channels -->
 - [ ] 50 subscribers <!--- combined subscribers on other YouTube channels -->
+- [ ] 80 subscribers <!-- combined subscribers between both guardians -->
 - [ ] 15 000 views <!--- combined views on other YouTube channels -->
 - [ ] 100 subscribers <!--- ability to claim custom channel name -->
 - [ ] 500 subscribers <!--- lowered YPP requirements -->
@@ -14,8 +15,8 @@
 - [ ] 2 500 subscribers <!--- @biancaglamour on TikTok has 2498 followers as of 2023-06-13 -->
 - [ ] 400 000 likes <!--- @biancaglamour on TikTok has 356.1K likes as of 2023-06-13 -->
 - [ ] 2 million views on a video <!--- @biancaglamour's most viewed video on TikTok is: https://www.tiktok.com/@biancaglamour/video/7101473081905908997 with 1.8M views) -->
-- [ ] 7 000 subscribers
-- [ ] 30 shorts in 30 days
+- [ ] 7 000 subscribers <!--- Twitter account with most followers -->
+- [ ] 30 shorts in 30 days <!--- https://www.youtube.com/watch?v=XCg64227nOw -->
 ## Support
 If you enjoy the videos and wish to see continous uploads, please consider contributing to the [puppy fund](https://paypal.me/bglamours) via PayPal.
 ## License and Copyright
