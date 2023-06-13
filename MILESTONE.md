@@ -4,6 +4,8 @@
 - [ ] 50 subscribers
 - [ ] 15 000 views
 - [ ] 100 subscribers
+- [ ] 1 000 subscribers
+- [ ] 4 000 hours watch time/365 days
 - [ ] 2 500 subscribers
 - [ ] 7 000 subscribers
 - [ ] 30 uploads in 30 days
