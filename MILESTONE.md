@@ -1,6 +1,8 @@
 # Milestones
 - [ ] 20 subscribers
+- [ ] 15 videos
 - [ ] 10 000 views
+- [ ] 25 videos
 - [ ] 50 subscribers
 - [ ] 15 000 views
 - [ ] 100 subscribers
