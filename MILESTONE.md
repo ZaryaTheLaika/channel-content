@@ -7,6 +7,8 @@
 - [ ] 1 000 subscribers
 - [ ] 4 000 hours watch time/365 days
 - [ ] 2 500 subscribers
+- [ ] 400 000 likes
+- [ ] 2 million views on a video
 - [ ] 7 000 subscribers
 - [ ] 30 uploads in 30 days
 ## Support
