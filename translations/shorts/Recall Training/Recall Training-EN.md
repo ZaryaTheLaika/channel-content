@@ -17,3 +17,5 @@ SOCIAL
 • TikTok: https://www.tiktok.com/@zaryathelaika
 • Tumblr: https://www.tumblr.com/zaryathelaika
 • Twitter: https://twitter.com/ZaryaTheLaika
+
+URL: https://youtube.com/shorts/jdw8T5HciqY?feature=share
