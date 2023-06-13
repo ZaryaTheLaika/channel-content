@@ -4,7 +4,8 @@
 - [ ] 10 000 views <!--- most viewed alternative YouTube channel -->
 - [ ] 25 long-form videos <!--- total videos uploaded to YouTube on other channels -->
 - [ ] 50 subscribers <!--- combined subscribers on other YouTube channels -->
-- [ ] 80 subscribers <!-- combined subscribers between both guardians -->
+- [ ] 69 subscribers <!--- reference to biancaglamour69's Twitter account -->
+- [ ] 80 subscribers <!--- combined subscribers between both guardians -->
 - [ ] 15 000 views <!--- combined views on other YouTube channels -->
 - [ ] 100 subscribers <!--- ability to claim custom channel name -->
 - [ ] 500 subscribers <!--- lowered YPP requirements -->
