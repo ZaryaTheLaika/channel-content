@@ -2,16 +2,18 @@
 - [ ] 20 subscribers
 - [ ] 15 long-form videos
 - [ ] 10 000 views
-- [ ] 25 long-form videos
-- [ ] 50 subscribers
-- [ ] 15 000 views
-- [ ] 100 subscribers
-- [ ] 1 000 subscribers
-- [ ] 4 000 hours watch time/365 days (long-form video)
-- [ ] 10 000 000 views/90 days (shorts)
-- [ ] 2 500 subscribers
-- [ ] 400 000 likes
-- [ ] 2 million views on a video
+- [ ] 25 long-form videos <!--- total videos uploaded to YouTube on other channels -->
+- [ ] 50 subscribers <!--- combined subscribers on other YouTube channels -->
+- [ ] 15 000 views <!--- combined views on other YouTube channels -->
+- [ ] 100 subscribers <!--- ability to claim custom channel name -->
+- [ ] 500 subscribers <!--- lowered YPP requirements -->
+- [ ] 3 000 watch hours/365 days (long-form videos) <!--- lowered YPP requirements -->
+- [ ] 1 000 subscribers <!--- YPP requirements -->
+- [ ] 4 000 hours watch time/365 days (long-form video) <!--- YPP requirements -->
+- [ ] 10 000 000 views/90 days (shorts) <!--- egibility for monetization of short-form content -->
+- [ ] 2 500 subscribers <!--- @biancaglamour on TikTok has 2498 followers as of 2023-06-13 -->
+- [ ] 400 000 likes <!--- @biancaglamour on TikTok has 356.1K likes as of 2023-06-13 -->
+- [ ] 2 million views on a video <!--- @biancaglamour's most viewed video on TikTok is: https://www.tiktok.com/@biancaglamour/video/7101473081905908997 with 1.8M views) -->
 - [ ] 7 000 subscribers
 - [ ] 30 shorts in 30 days
 ## Support
