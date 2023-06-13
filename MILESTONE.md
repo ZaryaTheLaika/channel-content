@@ -11,6 +11,7 @@
 - [ ] 100 subscribers <!--- ability to claim custom channel name -->
 - [ ] 500 subscribers <!--- lowered YPP requirements -->
 - [ ] 3 000 watch hours/365 days (long-form videos) <!--- lowered YPP requirements -->
+- [ ] 3 000 000 views/90 days (shorts) <!--- lowered YPP requirements -->
 - [ ] [1 000 subscribers](https://support.google.com/youtube/answer/72851?hl) <!--- YPP requirements -->
 - [ ] [4 000 hours watch time/365 days](https://support.google.com/youtube/answer/72851?hl) (long-form video) <!--- YPP requirements -->
 - [ ] [10 000 000 views/90 days](https://support.google.com/youtube/answer/72851?hl) (shorts)<!--- egibility for monetization of short-form content -->
