@@ -11,12 +11,12 @@
 - [ ] 100 subscribers <!--- ability to claim custom channel name -->
 - [ ] 500 subscribers <!--- lowered YPP requirements -->
 - [ ] 3 000 watch hours/365 days (long-form videos) <!--- lowered YPP requirements -->
-- [ ] 1 000 subscribers <!--- YPP requirements -->
-- [ ] 4 000 hours watch time/365 days (long-form video) <!--- YPP requirements -->
-- [ ] 10 000 000 views/90 days (shorts) <!--- egibility for monetization of short-form content -->
+- [ ] [1 000 subscribers](https://support.google.com/youtube/answer/72851?hl) <!--- YPP requirements -->
+- [ ] [4 000 hours watch time/365 days](https://support.google.com/youtube/answer/72851?hl) (long-form video) <!--- YPP requirements -->
+- [ ] [10 000 000 views/90 days](https://support.google.com/youtube/answer/72851?hl) (shorts)<!--- egibility for monetization of short-form content -->
 - [ ] 2 500 subscribers <!--- @biancaglamour on TikTok has 2498 followers as of 2023-06-13 -->
 - [ ] 400 000 likes <!--- @biancaglamour on TikTok has 356.1K likes as of 2023-06-13 -->
-- [ ] 2 million views on a video <!--- @biancaglamour's most viewed video on TikTok is: https://www.tiktok.com/@biancaglamour/video/7101473081905908997 with 1.8M views) -->
+- [ ] 2 million views on a video <!--- @biancaglamour's most viewed video on TikTok is: https://www.tiktok.com/@biancaglamour/video/7101473081905908997 with 1.8M views as of 2023-06-13) -->
 - [ ] 7 000 subscribers <!--- Twitter account with most followers -->
 - [ ] 30 shorts in 30 days <!--- https://www.youtube.com/watch?v=XCg64227nOw -->
 ## Support
