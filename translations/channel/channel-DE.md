@@ -1,4 +1,4 @@
-Kanalname:
+Kanalname: Zarya der Laika
 
 Kanalbeschreibung:
 
