@@ -1,3 +1,4 @@
+<!--- template for translations -->
 Title: Meet Zarya the Laika [subtitled]
 
 Video description: Introducing Zarya the West Siberian Laika, born September 15th, 2022.
