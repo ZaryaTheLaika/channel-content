@@ -19,4 +19,9 @@ SOCIAL
 • Tumblr: https://www.zaryathelaika.tumblr.com
 • Twitter: https://twitter.com/ZaryaTheLaika
 
+Captioned in YouTube Studio.
+
+Audio: English
+Accessibility: closed captioned (soft-coded same-language subtitles)
+
 <!--- URL: https://youtube.com/shorts/x_6Mg8Wl-Aw?feature=share -->
