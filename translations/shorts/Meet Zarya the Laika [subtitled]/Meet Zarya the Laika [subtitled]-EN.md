@@ -9,8 +9,8 @@ PAYPAL
 Make a one-time donation via PayPal: https://paypal.me/bglamours
 
 SUBTITLES
-» Help with subtitle translations via Amara: (pending)
-» Help with translations via git: (pending)
+» Help with subtitle translations via Amara: Not enabled
+» Help with translations via git: https://github.com/ZaryaTheLaika/channel-content/tree/937f721de4f45b3e4d00d257ddf555ac4f444904/translations/shorts/Meet%20Zarya%20the%20Laika%20%5Bsubtitled%5D
 » Send subtitle files via email: (pending)
 
 SOCIAL
