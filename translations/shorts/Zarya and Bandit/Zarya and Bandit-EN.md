@@ -18,4 +18,5 @@ SOCIAL
 • Tumblr: https://www.tumblr.com/zaryathelaika
 • Twitter: https://twitter.com/ZaryaTheLaika
 
-URL: https://youtube.com/shorts/cp-zGqkIkuY?feature=share
+<!--- URL: https://youtube.com/shorts/cp-zGqkIkuY -->
+
