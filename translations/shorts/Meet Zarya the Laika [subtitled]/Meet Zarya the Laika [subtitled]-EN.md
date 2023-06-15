@@ -1,7 +1,7 @@
 <!--- template for translations -->
 Title: Meet Zarya the Laika [subtitled]
 
-Video description: Introducing Zarya the West Siberian Laika, born September 15th, 2022.
+Video description: Introducing Zarya the West Siberian Laika, born September 15th, 2022 in Tumbler Ridge, British Columbia.
 
 #WestSiberianLaika #WSL #PuppiesOfYouTube 
 #WithSubtitles #WithCaptions #TranslationTeam
