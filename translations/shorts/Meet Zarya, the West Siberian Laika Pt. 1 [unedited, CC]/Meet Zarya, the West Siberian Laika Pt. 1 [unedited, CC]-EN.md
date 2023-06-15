@@ -10,7 +10,7 @@ Make a one-time donation via PayPal: https://paypal.me/bglamours
 
 SUBTITLES
 » Help with subtitle translations via Amara: Not enabled
-» Help with translations via git: https://github.com/ZaryaTheLaika/channel-content/tree/874165059a797ebbd8a32852f590c1573d536638/translations/shorts/Meet%20Zarya%2C%20the%20West%20Siberian%20Laika%20Pt.%201
+» Help with translations via git: https://github.com/ZaryaTheLaika/channel-content/tree/f2438627831d6524f57f2fd5263e59702ea5d0c6/translations/shorts/Meet%20Zarya%2C%20the%20West%20Siberian%20Laika%20Pt.%201%20%5Bunedited%2C%20CC%5D
 » Send subtitle files via email: (pending)
 
 SOCIAL
