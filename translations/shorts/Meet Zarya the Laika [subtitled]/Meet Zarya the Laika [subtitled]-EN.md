@@ -20,4 +20,10 @@ SOCIAL
 • Tumblr: https://www.zaryathelaika.tumblr.com
 • Twitter: https://twitter.com/ZaryaTheLaika
 
+Captioned in YouTube Studio.
+Subtitles burned in with CapCut.
+
+Audio: English
+Accessibility: open captioned (hard-coded same-language subtitles for deaf and hard of hearing), closed captioned (soft-coded same-language subtitles)
+
 <!--- URL: https://youtube.com/shorts/wrRQzPvvdho?feature=share -->
