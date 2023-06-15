@@ -18,5 +18,7 @@ SOCIAL
 • Tumblr: https://www.tumblr.com/zaryathelaika
 • Twitter: https://twitter.com/ZaryaTheLaika
 
+Edited in DaVinci Resolve 18.1.4 Build 9.
+
 <!--- URL: https://youtube.com/shorts/cp-zGqkIkuY -->
 
