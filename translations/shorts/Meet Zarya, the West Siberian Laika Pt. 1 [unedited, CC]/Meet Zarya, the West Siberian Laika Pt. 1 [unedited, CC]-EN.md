@@ -1,8 +1,9 @@
-Title: Meet Zarya, the West Siberian Laika Pt. 1
+Title: Meet Zarya, the West Siberian Laika Pt. 1 [unedited, CC]
 
 Description: Introducing Zarya the West Siberian Laika, born September 15th, 2022.
 
 #WestSiberianLaika #WSL #PuppiesOfYouTube
+#WithSubtitles #WithCaptions #TranslationTeam
 
 PAYPAL
 Make a one-time donation via PayPal: https://paypal.me/bglamours
@@ -18,4 +19,4 @@ SOCIAL
 • Tumblr: https://www.zaryathelaika.tumblr.com
 • Twitter: https://twitter.com/ZaryaTheLaika
 
-URL: https://youtube.com/shorts/x_6Mg8Wl-Aw?feature=share
+<!--- URL: https://youtube.com/shorts/x_6Mg8Wl-Aw?feature=share -->
