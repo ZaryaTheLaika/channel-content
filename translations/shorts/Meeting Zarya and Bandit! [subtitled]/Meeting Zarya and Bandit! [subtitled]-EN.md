@@ -1,4 +1,4 @@
-Title: Meeting Zarya and Bandit! [subtitled].Meeting Zarya and Bandit! [subtitled]
+Title: Meeting Zarya and Bandit! [subtitled]
 
 Video description: Meeting Zarya, the West Siberian Laika, along with her sibling Bandit! Both were born September 15th, 2022.
 
@@ -18,3 +18,5 @@ SOCIAL
 • TikTok: https://www.tiktok.com/@zaryathelaika
 • Tumblr: https://www.zaryathelaika.tumblr.com
 • Twitter: https://twitter.com/ZaryaTheLaika
+
+<!--- URL: https://www.youtube.com/shorts/1-w3bSBqmu0 -->
