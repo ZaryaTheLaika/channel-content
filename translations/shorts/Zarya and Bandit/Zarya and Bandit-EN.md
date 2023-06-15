@@ -1,6 +1,6 @@
 Title: Zarya and Bandit
 
-Description: Zarya and Bandit, the West Siberian Laikas, born September 15th, 2022, prancing and plowing through the snow.
+Description: Zarya and Bandit, the West Siberian Laikas, born September 15th, 2022 in Tumbler Ridge, British Columbia, prancing and plowing through the snow.
 
 #WestSiberianLaika #WSL #PuppiesOfYouTube
 
