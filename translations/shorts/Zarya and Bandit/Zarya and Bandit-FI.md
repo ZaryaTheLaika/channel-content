@@ -18,3 +18,6 @@ Tumblr: https://www.tumblr.com/zaryathelaika
 Twitter: https://twitter.com/ZaryaTheLaika
 
 <!--- URL: https://youtube.com/shorts/cp-zGqkIkuY -->
+<!--- Pavel's current owners live in Finland -->
+<!--- Metsästysseura Länsisiperianlaikat ry: https://www.mslansisiperianlaikatry.com/ -->
+<!--- Suomen Laikajärjestö ry: https://laikajarjesto.fi/ -->
