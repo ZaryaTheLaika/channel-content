@@ -19,4 +19,9 @@ SOCIAL
 • Tumblr: https://www.zaryathelaika.tumblr.com
 • Twitter: https://twitter.com/ZaryaTheLaika
 
-URL: https://youtube.com/shorts/LiMomS4r8go?feature=share
+Captioned in YouTube Studio.
+
+Audio: English
+Accessibility: closed captioned (soft-coded same-language subtitles)
+
+<!--- URL: https://youtube.com/shorts/LiMomS4r8go?feature=share -->
