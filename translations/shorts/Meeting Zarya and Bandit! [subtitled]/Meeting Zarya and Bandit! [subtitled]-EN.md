@@ -19,6 +19,10 @@ SOCIAL
 • Tumblr: https://www.zaryathelaika.tumblr.com
 • Twitter: https://twitter.com/ZaryaTheLaika
 
-Edited in DaVinci Resolve 18.1.4 Build 9.
+Captioned in YouTube Studio.
+Subtitles burned in with CapCut.
+
+Audio: English
+Accessibility: open captioned (hard-coded same-language subtitles for deaf and hard of hearing), closed captioned (soft-coded same-language subtitles)
 
 <!--- URL: https://www.youtube.com/shorts/1-w3bSBqmu0 -->
