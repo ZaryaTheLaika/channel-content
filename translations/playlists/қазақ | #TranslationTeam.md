@@ -1,4 +1,4 @@
-Title: Қазақша | #TranslationTeam
+Title: қазақ | #TranslationTeam
 
 Description:
 
