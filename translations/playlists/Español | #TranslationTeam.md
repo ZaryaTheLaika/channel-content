@@ -1,3 +1,6 @@
 Title: Español | #TranslationTeam
 
-Description: https://www.youtube.com/playlist?list=PL1yhyLyBfE6Qd3rhcJEQ6C00QZeopCQXd
+Description: 
+
+<!--- URL: https://www.youtube.com/playlist?list=PL1yhyLyBfE6Qd3rhcJEQ6C00QZeopCQXd -->
+<!--- a Facebook mutual was from Spain -->
