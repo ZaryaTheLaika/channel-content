@@ -1,4 +1,4 @@
-Title: Meet Zarya, the West Siberian Laika Pt. 1 [unedited, CC]
+Title: Meet Zarya, the West Siberian Laika Pt. 1 (unedited) [CC]
 
 Description: Introducing Zarya the West Siberian Laika, born September 15th, 2022 in Tumbler Ridge, British Columbia.
 
