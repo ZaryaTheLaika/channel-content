@@ -2,6 +2,8 @@ Title: Zarya and Bandit
 
 Description: Zarya and Bandit, the West Siberian Laikas, born September 15th, 2022 in Tumbler Ridge, British Columbia, prancing and plowing through the snow.
 
+Video is filmed in the traditional territory of the Dunne-za, Saulteaux, Tse’khene, Cree and Metis peoples, McLeod Lake Indian Band, Saulteaux First Nations and West Moberly First Nations, the Kelly Lake Cree First Nations, Kelly Lake First Nations and Kelly Lake Metis Settlement Society within Treaty 8 Territory.
+
 #WestSiberianLaika #WSL #PuppiesOfYouTube
 
 PAYPAL
