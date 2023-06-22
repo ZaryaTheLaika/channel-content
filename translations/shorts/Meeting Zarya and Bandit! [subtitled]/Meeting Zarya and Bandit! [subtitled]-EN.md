@@ -1,6 +1,8 @@
 Title: Meeting Zarya and Bandit! [subtitled]
 
-Video description: Meeting Zarya, the West Siberian Laika, along with her sibling Bandit! Both were born September 15th, 2022 in Tumbler Ridge, British Columbia.
+Description: Meeting Zarya, the West Siberian Laika, along with her sibling Bandit! Both were born September 15th, 2022 in Tumbler Ridge, British Columbia.
+
+Video is filmed in the traditional territory of the Dunne-za, Saulteaux, Tse’khene, Cree and Metis peoples, McLeod Lake Indian Band, Saulteaux First Nations and West Moberly First Nations, the Kelly Lake Cree First Nations, Kelly Lake First Nations and Kelly Lake Metis Settlement Society within Treaty 8 Territory.
 
 #WestSiberianLaika #WSL #PuppiesOfYouTube 
 #WithSubtitles  #WithCaptions #TranslationTeam
