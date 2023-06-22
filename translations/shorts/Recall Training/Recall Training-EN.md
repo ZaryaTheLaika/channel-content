@@ -2,6 +2,8 @@ Title: Recall Training
 
 Description: Calling off Zarya off her plastic herding egg to reinforce recall behavour.
 
+Video is filmed in the traditional territory of the Dunne-za,  Cree and Metis peoples, Duncan's First Nation, Horse Lake First Nation and Sturgeon Lake Cree Nation within Treaty 8 Territory.
+
 #WestSiberianLaika #WSL #DogTraining #PuppiesOfYouTube
 
 PAYPAL
