@@ -1,4 +1,4 @@
-Title: Meeting Zarya and Bandit! [subtitled]
+Title: Meeting Zarya and Bandit! [subtitled] [CC]
 
 Description: Meeting Zarya, the West Siberian Laika, along with her sibling Bandit! Both were born September 15th, 2022 in Tumbler Ridge, British Columbia.
 
