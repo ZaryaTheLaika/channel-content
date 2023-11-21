@@ -1,5 +1,5 @@
 # Milestones
-- [x] 20 YouTube subscribers <!--- most subscribed alternative YouTube channel -->
+- [ ] 24 YouTube subscribers <!--- most subscribed alternative YouTube channel -->
 - [ ] 15 long-form videos <!--- most videos uploaded to an alternative YouTube channel -->
 - [ ] 12 000 views <!--- most viewed alternative YouTube channel -->
 - [ ] 25 long-form videos <!--- total videos uploaded to YouTube on other channels -->
