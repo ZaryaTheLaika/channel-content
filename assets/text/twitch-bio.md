@@ -1,15 +1,7 @@
-Channel Title: Zarya the Laika
+My name is Zarya, the West Siberian Laika! Join us on our adventures!
 
-Handle: @ZaryaTheLaika
-
-Description: My name is Zarya, the West Siberian Laika! Join us on our adventures!
-
-Channel URL: https://www.youtube.com/channel/UCKG68gncKr7Q-jlQvHR3Hmw
-
-Links: 
+Social Links:
 - Instagram: https://www.instagram.com/zaryathelaika/
 - YouTube: https://youtube.com/@ZaryaTheLaika
 - Tumblr: https://www.tumblr.com/blog/zaryathelaika
 - PayPal: https://www.paypal.me/bglamours
-
-Contact Info: zaryalaika@gmail.com
