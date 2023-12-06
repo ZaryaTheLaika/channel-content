@@ -11,5 +11,3 @@ Links:
 - YouTube: https://youtube.com/@ZaryaTheLaika
 - Tumblr: https://www.tumblr.com/blog/zaryathelaika
 - PayPal: https://www.paypal.me/bglamours
-
-Contact Info: zaryalaika@gmail.com
