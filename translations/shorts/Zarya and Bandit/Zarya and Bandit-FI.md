@@ -5,7 +5,7 @@ Zarya ja Bandit, the West Siberian Laikas, born September 15th, 2022, prancing a
 #Länsisiperianlaika #WSL
 
 PAYPAL
-Make a one-time donation via PayPal: https://paypal.me/bglamours
+Make a one-time donation via PayPal: https://paypal.me/dessi66
 
 SUBTITLES
 » Help with subtitle translations via Amara: (pending)
