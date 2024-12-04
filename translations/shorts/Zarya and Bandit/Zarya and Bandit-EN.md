@@ -7,7 +7,7 @@ Video is filmed in the traditional territory of the Dunne-za, Saulteau, Tse’kh
 #WestSiberianLaika #WSL #PuppiesOfYouTube
 
 PAYPAL
-Make a one-time donation via PayPal: https://paypal.me/bglamours
+Make a one-time donation via PayPal: https://paypal.me/dessi66
 
 SUBTITLES
 » Help with subtitle translations via Amara: Not enabled
