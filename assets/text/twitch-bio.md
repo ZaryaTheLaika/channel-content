@@ -4,4 +4,4 @@ Social Links:
 - Instagram: https://www.instagram.com/zaryathelaika/
 - YouTube: https://youtube.com/@ZaryaTheLaika
 - Tumblr: https://www.tumblr.com/blog/zaryathelaika
-- PayPal: https://www.paypal.me/bglamours
+- PayPal: https://www.paypal.me/dessi66
