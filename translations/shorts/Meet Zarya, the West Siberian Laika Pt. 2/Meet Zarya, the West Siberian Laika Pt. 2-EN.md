@@ -8,7 +8,7 @@ Video is filmed in the traditional territory of the Dunne-za, Saulteau, Tse’kh
 #WithSubtitles #WithCaptions #TranslationTeam
 
 PAYPAL
-Make a one-time donation via PayPal: https://paypal.me/bglamours
+Make a one-time donation via PayPal: https://paypal.me/dessi66
 
 SUBTITLES
 » Help with subtitle translations via Amara: Not enabled
